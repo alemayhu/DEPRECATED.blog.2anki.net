@@ -1,25 +1,25 @@
 {
-  "title": "Title of the website. Update me.",
-  "url": "https://update-me.com",
-  "domain": "update-me.com",
-  "description": "Description of the website. Update me.",
-  "genre": "Insert a schema.org genre",
-  "googleAnalyticsId": "GA ID. Update me",
+  "title": "The notion2anki Blog",
+  "url": "https://2anki.net/blog",
+  "domain": "2anki.net",
+  "description": "A place to learn more about Notion and Anki topics.",
+  "genre": "SoftwareApplication",
+  "googleAnalyticsId": "GA-162974703",
   "feed": {
-    "subtitle": "Subtitle. Update me.",
+    "subtitle": "Stay up to date with the notion2anki project! Learn more tips and tricks for Notion and Anki.",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://update-me.com"
+    "id": "https://2anki.net"
   },
   "jsonfeed": {
     "path": "/feed/feed.json",
-    "url": "https://update-me.com/feed/feed.json"
+    "url": "https://2anki.net/blog/feed/feed.json"
   },
   "author": {
-    "name": "Author Name. Update me.",
-    "twitterHandle": "update_me"
+    "name": "Alexander Alemayhu",
+    "twitterHandle": "aalemayhu"
   },
   "publisher": {
-    "name": "Publisher name. Update me."
+    "name": "2anki.net"
   }
 }
